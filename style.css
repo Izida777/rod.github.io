@@ -1,0 +1,94 @@
+<style>
+.menu img {
+   max-width: 70%;
+  }
+
+h1 { 
+   font: 70pt; 
+   color:#000000;
+   margin: 0;
+   padding: 0;
+  }
+
+h2 { 
+   font: 27pt; 
+   color:#000000;
+  }
+
+h3 { 
+   font: 24pt; 
+   color:#000000;
+  }
+
+a { 
+   font: 20pt; 
+   color:#800000;
+   text-decoration: none;
+  }
+
+a:hover
+{
+color:#DEB887;
+text-decoration: none; 
+}
+
+body { 
+   background: url(http://lenagold.ru/fon/list/zel/zellist31.jpg) repeat;
+   background-size: 45%;
+   font: 12pt Trebuchet MS;; 
+   color:#FCFFD9;
+   background-attachment: fixed;
+text-shadow: #FFF 0px 0px 2px;
+  }
+
+@font-face {
+font-family: PT Sans; /* Присваиваем имя шрифту */
+src:url(http://teatralieparusa.hol.es/PT-Sans.ttf) /* Путь к шрифту в формате TTF */
+}
+
+.content {
+   width: 1000px;
+height: 100px;
+   position: absolute;; 
+     margin: auto;
+ right: 0;
+    left: 0;
+   top: 30px; 
+   padding: 5px 25px 25px 25px;
+   background: url(http://lenagold.ru/fon/rast/besv/rast42.jpg) repeat;
+
+   box-shadow: 0 0 10px #000000;
+   border-radius: 400px;
+
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 10px;
+  }
+
+.content2 {
+   width: 1000px;
+   position: absolute; 
+     margin: auto;
+ right: 0;
+    left: 0;
+   top: 180px; 
+   padding: 25px 25px 25px 25px;
+   background: url(http://lenagold.ru/fon/rast/besv/rast42.jpg) repeat;
+
+   box-shadow: 0 0 10px #000000;
+   border-radius: 100px;
+
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 10px;
+  }
+
+#top {
+    
+    height: 108px;
+
+    top: 0;
+	left:0;
+    width: 100%;
+    z-index: 100;
+	background: url("ramka-leto_05.png") repeat scroll 0 0 ;
+}
+</style>
